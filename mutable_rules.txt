@@ -1,5 +1,3 @@
-201. A player may begin their turn at any time. A turn begins when a legislative proposal is submitted. A player may only have one open legislative proposal at any time. The limit on the number of open legisilative proposals is the number of players in the game. 
-
 202. One turn consists of two parts in this order: (1) proposing one rule-change and having it voted on, and (2) throwing one die once and adding the number of points on its face to one's score.
 
 In mail and computer games, instead of throwing a die, players subtract 291 from the ordinal number of their proposal and multiply the result by the fraction of favorable votes it received, rounded to the nearest integer. (This yields a number between 0 and 10 for the first player, with the upper limit increasing by one each turn; more points are awarded for more popular proposals.)
@@ -43,3 +41,5 @@ New Judges are not bound by the decisions of old Judges. New Judges may, however
 213. If the rules are changed so that further play is impossible, or if the legality of a move cannot be determined with finality, or if by the Judge's best reasoning, not overruled, a move appears equally legal and illegal, then the first player unable to complete a turn is the winner.
 
 This rule takes precedence over every other rule determining the winner.
+
+302. A player may begin their turn at any time. A turn begins when a legislative proposal is submitted. A player may only have one open legislative proposal at any time. The limit on the number of open legisilative proposals is the number of players in the game. 
