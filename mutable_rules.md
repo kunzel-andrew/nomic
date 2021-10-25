@@ -16,9 +16,9 @@ In mail and computer games, instead of throwing a die, players subtract 291 from
 
 207. Each player always has exactly one vote.
 
-208. The winner is the first player to achieve 100 (positive) points.
+~~208. The winner is the first player to achieve 100 (positive) points.~~
 
-In mail and computer games, the winner is the first player to achieve 200 (positive) points.
+~~In mail and computer games, the winner is the first player to achieve 200 (positive) points.~~
 
 209. At no time may there be more than 25 mutable rules.
 
@@ -46,4 +46,4 @@ New Judges are not bound by the decisions of old Judges. New Judges may, however
 
 This rule takes precedence over every other rule determining the winner.
 
-301. Amendment of rule 208. The winner of the game is the first to achieve 200 (positive) points, on or after the 25th turn. If a player achieves 200 (positive) points before the 25th turn, the game will go into Final Countdown, and each player will complete one additional turn. At the end of Final Countdown, if any player has 200 (positive) or more points, the player with the most points is the winner. If at the end of Final Countdown, no player has 200 (positive) or more points, play resumes as normal. There can be any number of Final Countdowns before a winner is declared.
+301. Amendment of rule 208. The winner of the game is the first to achieve 200 (positive) points, on or after the 25th turn. If a player achieves 200 (positive) points before the 25th turn, the game will go into the Countdown, and each player will complete one additional turn. At the end of the Countdown, if any player has 200 (positive) or more points, the player with the most points is the winner. If at the end of the Countdown, no player has 200 (positive) or more points, or multiple players have the highest total of points, play resumes as normal. There can be any number of Countdowns before a winner is declared.
